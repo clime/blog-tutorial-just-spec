@@ -6,7 +6,7 @@ Summary:	This is a simple example to test copr
 
 License:	GPLv2+
 URL:		https://github.com/blog-tutorial-just-spec
-Source0:	https://clime.cz/%{name}-%{version}.tar.gz
+Source0:	https://clime.fedorapeople.org/example-1.0.0.tar.gz
 
 
 # What this package does
