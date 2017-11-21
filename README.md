@@ -2,7 +2,7 @@
 
 Hello, this is an example repository to demonstrate COPR SCM abilities.
 Content of this repository is flat and packed. In addition, the sources
-(<https://clime.cz/%{name}-%{version}.tar.gz>) are external and will be
+(<https://clime.cz/example-1.0.0.tar.gz>) are external and will be
 downloaded by COPR during its build process.
 
 **Flat** means there are no subpackages in the repository except the root one.
